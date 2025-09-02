@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ren Sakamoto  
+# 👋 Hi there, I’m Ren Sakamoto  
 
 ###
 
@@ -7,8 +7,8 @@
 </p>
 
 <h3 align="center">
-🌸 **Senior Frontend Engineer | React, Next.js & React Native Expert** 🚀<br>
-Certified frontend developer from Japan with **10+ years of experience** building modern, high-performance web and mobile applications for startups and enterprises worldwide.
+🌸 Senior Frontend Engineer | React, Next.js & React Native Expert 🚀<br>
+Certified frontend developer from Japan with **10+ years of experience**<br>building modern, high-performance web and mobile applications for startups and enterprises worldwide.
 </h3>
 <br clear="both">
 
