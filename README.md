@@ -1,20 +1,41 @@
+# 👋 Hi, I’m Ren Sakamoto  
+
+###
+
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github;I'm+Senior+Frontend+Engineer;React+%26+Next.js+React+Native+Expert;WordPress+Specialist;Always+learning+new+technologies&center=true&width=500&height=60">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=🚀Welcome+to+my+Github+Profile!;I'm+Senior+Frontend+Engineer;React+%26+Next.js+%26+React+Native+Expert;WordPress+Specialist;Always+learning+new+technologies&center=true&width=500&height=60">
 </p>
 
 <h3 align="center">
-I'm a Frontend & WordPress Developer 🚀<br>
-with 9+ years of experience building modern, responsive, and scalable web applications.
+🌸 **Senior Frontend Engineer | React, Next.js & React Native Expert** 🚀<br>
+Certified frontend developer from Japan with **10+ years of experience** building modern, high-performance web and mobile applications for startups and enterprises worldwide.
 </h3>
 <br clear="both">
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StrongBlue0703&locale=en&hide_title=false&hide=html,MDX,makefile,Batchfile,shell&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+## 🚀 About Me  
+- 🎓 **Master’s in Computer Science** – Kyushu University (2012–2014)  
+- 💻 Passionate about crafting **clean, maintainable, and scalable code**  
+- 🌏 Worked with clients across **US, Europe, and Asia**  
+- ⚡ Focused on **ROI-driven development** – not just code, but real business value  
+- ✨ Japanese work ethic – disciplined, detail-oriented, and reliable  
 
-###
+---
+
+---
+## 🛠 Tech Stack
+
+- Frontend: ReactJS, Next.js, React Native, TypeScript, JavaScript (ES6+), HTML5, CSS3, Bootstrap
+- UI/UX: TailwindCSS, Material-UI, SASS, BEM methodology, Figma, Adobe XD, responsive design
+- State Management: Redux, Redux-Saga, MobX, React Context, Zustand
+- Testing & QA: Jest, Cypress, Playwright, Storybook, React Testing Library
+- Backend & APIs: REST, GraphQL, Firebase, Supabase, Node.js, Express
+- Databases: MongoDB, PostgreSQL, MySQL, SQLite
+- Other Experience: WordPress, Wix, Elementor, PHP, MERN, Vue.js, Angular, Shopify, Python, Flutter, Docker, Git/GitHub/GitLab/Bitbucket
+
+---
+
 
 # 💻 My Main Skills:
 <div style="display: flex; align-items: flex-start; align: center">
