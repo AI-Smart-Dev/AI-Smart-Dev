@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;WordPress+Specialist;React+%26+Next.js+Expert;Always+learning+new+technologies&center=true&width=500&height=60">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github;I'm+Senior+Frontend+Engineer;React+%26+Next.js+React+Native+Expert;WordPress+Specialist;Always+learning+new+technologies&center=true&width=500&height=60">
 </p>
 
 <h3 align="center">
