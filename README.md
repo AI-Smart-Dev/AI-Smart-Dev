@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Ren Sakamoto  
+# 👋 Hi there,
 
 ###
 
