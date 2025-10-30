@@ -1,7 +1,6 @@
 <h1 align="center" dir="auto">👋 Hi, I’m Agile Passionate Creative Developer</h1>
 <p align="center">
   <h3 align="center">AI/ML Engineer | Deep Learning Specialist | Multi-Platform Innovator</h3>
-###
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=🚀Welcome+to+my+Github+Profile!;I'm+Senior+Full+Stack+Engineer;;I'm+AI/ML Engineer;React+%26+Next.js+%26+React+Native+Expert;WordPress+Specialist;Always+learning+new+technologies&center=true&width=500&height=60">
@@ -103,6 +102,11 @@
         </td>
     </tr>
 </table>
+  
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
+<img align="right" src="https://img.shields.io/github/followers/lucyhunter9411?label=Follow&style=social" />
+<h1 align="center"></h1>
+</br>
 <br><br>
 </div>
 
