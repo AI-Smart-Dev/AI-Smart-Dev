@@ -1,41 +1,51 @@
-# 👋 Hi there,
-
+<h1 align="center" dir="auto">👋 Hi, I’m Agile Passionate Creative Developer</h1>
+<p align="center">
+  <h3 align="center">AI/ML Engineer | Deep Learning Specialist | Multi-Platform Innovator</h3>
 ###
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=🚀Welcome+to+my+Github+Profile!;I'm+Senior+Frontend+Engineer;React+%26+Next.js+%26+React+Native+Expert;WordPress+Specialist;Always+learning+new+technologies&center=true&width=500&height=60">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=🚀Welcome+to+my+Github+Profile!;I'm+Senior+Full+Stack+Engineer;;I'm+AI/ML Engineer;React+%26+Next.js+%26+React+Native+Expert;WordPress+Specialist;Always+learning+new+technologies&center=true&width=500&height=60">
 </p>
 
-<h3 align="center">
-🌸 Senior Frontend Engineer | React, Next.js & React Native Expert 🚀<br>
-Certified frontend developer from Japan with **10+ years of experience**<br>building modern, high-performance web and mobile applications for startups and enterprises worldwide.
-</h3>
-<br clear="both">
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
----
+- 🤖 Specialize in developing <strong>end-to-end AI solutions</strong> from model design and training to deployment and <strong>real-time inference</strong>.<br>
 
-## 🚀 About Me  
-- 🎓 **Master’s in Computer Science** – Kyushu University (2012–2014)  
-- 💻 Passionate about crafting **clean, maintainable, and scalable code**  
-- 🌏 Worked with clients across **US, Europe, and Asia**  
-- ⚡ Focused on **ROI-driven development** – not just code, but real business value  
-- ✨ Japanese work ethic – disciplined, detail-oriented, and reliable  
+- 🧠 Exploring cutting-edge domains like <strong>LLMs</strong>, <strong>computer vision</strong>, <strong>NLP</strong>, <strong>agentic AI</strong>, and <strong>autonomous systems</strong>.<br>
 
----
+- 🔗 Integrating AI into <strong>interactive applications</strong>, <strong>immersive 3D environments</strong>, and <strong>decentralized platforms</strong>.<br>
 
----
-## 🛠 Tech Stack
+- 💡 Passionate about <strong>open source</strong>, <strong>emerging tech</strong>, and collaborating on <strong>groundbreaking AI projects</strong>.<br>
 
-- Frontend: ReactJS, Next.js, React Native, TypeScript, JavaScript (ES6+), HTML5, CSS3, Bootstrap
-- UI/UX: TailwindCSS, Material-UI, SASS, BEM methodology, Figma, Adobe XD, responsive design
-- State Management: Redux, Redux-Saga, MobX, React Context, Zustand
-- Testing & QA: Jest, Cypress, Playwright, Storybook, React Testing Library
-- Backend & APIs: REST, GraphQL, Firebase, Supabase, Node.js, Express
-- Databases: MongoDB, PostgreSQL, MySQL, SQLite
-- Other Experience: WordPress, Wix, Elementor, PHP, MERN, Vue.js, Angular, Shopify, Python, Flutter, Docker, Git/GitHub/GitLab/Bitbucket
+- 📚 Lifelong learner in <strong>AI research</strong>, personal development, and <strong>financial systems</strong>.<br>
 
----
+- ⚡ Motto: "<em>What you do today can improve all of your tomorrows.</em>" — especially when I am building the future with <strong>AI</strong>.
 
+<h4 align="center">
+ Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out
+</h4>
+</p>
+
+## What can I do:
+
+<table>
+  <tr>
+  <td width="60%">
+  - 🧠 AI/ML Systems & Deep Learning Models
+    </br></br>
+  - 🤖 Agentic AI & Autonomous Workflows
+    </br></br>
+  - 🔍 AI Search & Recommendation Systems
+    </br></br>
+  - 💬 AI Voice & Chat Systems
+    </br></br>
+  - 🌐 Web & Mobile Apps Powered by AI
+    </br></br>
+  - 📈 Intelligent SaaS, CRM, and Automation Tools
+  </td>
+  <td width="35%"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%"/></td>
+</table>
 
 # 💻 My Main Skills:
 <div style="display: flex; align-items: flex-start; align: center">
