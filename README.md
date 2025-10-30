@@ -6,7 +6,6 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=🚀Welcome+to+my+Github+Profile!;I'm+Senior+Full+Stack+Engineer;I'm+Senior+AI+Engineer;React+%26+Next.js+%26+React+Native+Expert;WordPress+Specialist;Always+learning+new+technologies&center=true&width=500&height=60">
 </p>
-###
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
@@ -165,10 +164,6 @@
   </tr>
 </table>
   
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
-<img align="right" src="https://img.shields.io/github/followers/lucyhunter9411?label=Follow&style=social" />
-<h1 align="center"></h1>
-</br>
 <br><br>
 </div>
 
