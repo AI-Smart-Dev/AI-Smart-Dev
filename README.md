@@ -4,7 +4,7 @@
   
 ###
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=🚀Welcome+to+my+Github+Profile!;I'm+Senior+Full+Stack+Engineer;I'm+AI/ML Engineer;React+%26+Next.js+%26+React+Native+Expert;WordPress+Specialist;Always+learning+new+technologies&center=true&width=500&height=60">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=🚀Welcome+to+my+Github+Profile!;I'm+Senior+Full+Stack+Engineer;I'm+AI+%26ML Engineer;React+%26+Next.js+%26+React+Native+Expert;WordPress+Specialist;Always+learning+new+technologies&center=true&width=500&height=60">
 </p>
 ###
 
