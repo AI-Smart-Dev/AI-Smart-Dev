@@ -58,10 +58,6 @@
             <br>React
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=net" width="48" height="48" alt=".net" />
-            <br>.NET
-        </td>
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
             <br>Next.js
         </td>
@@ -108,6 +104,65 @@
             <br>Git
         </td>
     </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/openai.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/claude.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/anthrophic.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/huggingface.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/langchain.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/deepseek.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/retellai.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/runpod.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/botpress.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/voiceflow.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/pinecone.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/faiss.png?raw=true" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/javascript.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/typescript.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/python.png?raw=true" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg?raw=true" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/react.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/next.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/laravel.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/node.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/fastapi.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/django.png?raw=true" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/mongodb.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/mysql.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/postgresql.png?raw=true" width="200"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/docker.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/kubernetes.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/aws.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/azure.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/google_cloud.png?raw=true" width="200"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/CRM.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/ghl.png?raw=true" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/make.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/zapier.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/n8n.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/react_native.png" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/flutter.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/android.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/iOS.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/bitcoin.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/ethereum.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/solana.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/solidity.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/NFT.jpg?raw=true" width="200"></td>
+  </tr>
 </table>
   
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
